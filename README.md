@@ -1,1 +1,1 @@
-Trying to learn the basics to Sass.
+Trying to learn the basics of Sass.
